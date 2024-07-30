@@ -29,7 +29,7 @@ nav,
 #credits {
   background-color: black;
   height: 60px;
-  /* Your code goes here */
+  padding: 10px 0;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -37,7 +37,10 @@ nav,
 
 .container {
   width: 500px;
-  /* Your code goes here */
+  max-width: 1200px;
+  margin: 0 auto;
+  border-color: #ffcc00;
+  border-radius: 5 px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
