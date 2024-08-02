@@ -37,13 +37,10 @@ nav,
 
 .container {
   width: 500px;
-  max-width: 1200px;
-  margin: 0 auto;
-  border-color: #ffcc00;
-  border-radius: 5 px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  gap: 10px;
 }
 
 .button {
